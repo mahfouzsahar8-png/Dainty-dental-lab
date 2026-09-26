@@ -1,0 +1,19 @@
+Dainty Dental Lab - GitHub Pages
+
+Repository:
+https://github.com/mahfouzsahar8-png/Dainty-dental-lab.git
+
+Files to upload to the repository root:
+1. payment.html (rename the generated payment file to exactly payment.html)
+2. Dainty-dental-lab-payment-QR.png is the real QR preview; embed/use this QR in the invoice.
+
+GitHub Pages URL expected:
+https://mahfouzsahar8-png.github.io/Dainty-dental-lab/payment.html
+
+Transfer number:
+01021634267
+
+QR encoded destination:
+https://mahfouzsahar8-png.github.io/Dainty-dental-lab/payment.html
+
+After uploading payment.html, enable GitHub Pages from Settings > Pages and choose the branch/folder containing payment.html.
